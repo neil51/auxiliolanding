@@ -18,8 +18,8 @@ const resolvedImageWithDomain = new URL(
 const { title } = Astro.props;
 
 const makeTitle = title
-  ? title + " | " + "Astroship"
-  : "Astroship - Starter Template for Astro with Tailwind CSS";
+  ? title + " | " + "Auxilio"
+  : "Auxilio - Integrating your offline cell manufacturing data";
 ---
 
 <!DOCTYPE html>
@@ -33,10 +33,10 @@ const makeTitle = title
     <!-- <link rel="preload" as="image" href={src} alt="Hero" /> -->
     <SEO
       title={makeTitle}
-      description="Astroship is a starter website template for Astro built with TailwindCSS."
+      description="Auxilio integrates your offline cell manufacturing data to make analysis and predictions possible for cell pilot plants and gigafactories."
       canonical={canonicalURL}
       twitter={{
-        creator: "@surjithctly",
+        creator: "@neil_rma",
         site: "@web3templates",
         card: "summary_large_image",
       }}
@@ -44,11 +44,11 @@ const makeTitle = title
         basic: {
           url: canonicalURL,
           type: "website",
-          title: `Astroship - Starter Template for Astro`,
+          title: `Auxilio - Integrating your offline cell manufacturing data`,
           image: resolvedImageWithDomain,
         },
         image: {
-          alt: "Astroship Homepage Screenshot",
+          alt: "Auxilio Homepage Screenshot",
         },
       }}
     />
