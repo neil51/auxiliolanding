@@ -1,10 +1,7 @@
 ---
 draft: false
-name: "Robert Palmer"
+name: "Bestin B Thomas"
 title: "Marketing Engineer"
-avatar: {
-    src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?&fit=crop&w=280",
-    alt: "Robert Palmer"
-}
+avatar: { src: "bestin", alt: "Bestin B Thomas" }
 publishDate: "2022-11-09 15:39"
 ---
