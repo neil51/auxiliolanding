@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "htps://auxilio.vercel.app",
+  site: "https://auxilio.vercel.app",
   integrations: [tailwind(), mdx(), sitemap()],
   base: '/'
 });
