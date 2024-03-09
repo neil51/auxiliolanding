@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Marcell Ziemann"
-title: "Principal Strategist"
+name: "Neil Reon Mathias"
+title: "Chief Product Officer"
 avatar: {
     src: "neil",
-    alt: "Marcell Ziemann"
+    alt: "Neil Reon Mathias"
 }
 publishDate: "2022-11-08 15:39"
 ---

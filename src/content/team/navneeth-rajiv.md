@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Janette Lynch"
-title: "Senior Director"
+name: "Navneeth Rajiv"
+title: "Chief Executive Officer"
 avatar: {
     src: "nav",
-    alt: "Janette Lynch"
+    alt: "Navneeth Rajiv"
 }
 publishDate: "2022-11-07 15:39"
 ---
