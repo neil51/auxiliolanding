@@ -1,4 +1,4 @@
-{
+nvm --{
   "name": "astroship",
   "type": "module",
   "version": "0.0.2",
